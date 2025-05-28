@@ -1,16 +1,14 @@
-## Hi there 👋
+## &nbsp;My Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 
-<!--
-**DougRib/DougRib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h3>Experience in the Development Area</h3>
+  <img height="36rem" src="https://skillicons.dev/icons?i=html,css,typescript,react,mysql" 
+       title="Python, Java, JavaScript, Typescript, Angular, Vue, C# and SQL."/>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3>Experience in the Data Area</h3>
+  <img height="36rem" src="https://skillicons.dev/icons?i=html,css,typescript,react,mysql" 
+       title="Python, Java, JavaScript, Typescript, Angular, Vue, C# and SQL."/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
