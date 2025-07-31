@@ -1,6 +1,14 @@
-### About me  
-<sup>> Developer, tech enthusiast always </sup>
-
+ <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+    Hello Dev!
+    Welcome to my Github 
+  </h1>
+  
+## Statistics  
+<div>  
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=github_dark"/>
+</div>  
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DougRib&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
@@ -8,13 +16,6 @@
 </div>
 
 <div><br /></div>
-
-##  
-### Statistics  
-<div>  
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=github_dark"/>
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=github_dark"/>
-</div>  
 
 ##  
 ![](https://visitor-badge.laobi.icu/badge?page_id=DougRib.readme)
@@ -42,7 +43,7 @@
 
 ##
 
-## 🌐 Redes Sociais:
+## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasribeiro21/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_ribeiro_21/)  
