@@ -6,13 +6,13 @@
   
 ## Statistics  
 <div>  
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=github_dark"/>
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=github_dark"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
 </div>  
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DougRib&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
 <div><br /></div>
