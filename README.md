@@ -1,5 +1,5 @@
  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     Hello Dev!
     Welcome to my Github 
   </h1>
@@ -15,10 +15,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
-<div><br /></div>
+<div><br /></div> 
 
-##  
 ![](https://visitor-badge.laobi.icu/badge?page_id=DougRib.readme)
+##
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> My Stack</b>
 
@@ -31,7 +31,7 @@
 <div>
   <h3>Experience in the Data Area</h3>
   <img height="36rem" src="https://skillicons.dev/icons?i=python," 
-       title="Python, Java, JavaScript, Typescript, Angular, Vue, C# and SQL."/>
+       title="Python, SQL."/>
 </div>
 
 <div>
