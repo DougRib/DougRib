@@ -4,7 +4,7 @@
     Welcome to my Github 
   </h1>
   
-## Statistics  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Statistics  </b> 
 <div>  
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
@@ -20,8 +20,7 @@
 ##  
 ![](https://visitor-badge.laobi.icu/badge?page_id=DougRib.readme)
 
-
-## &nbsp;My Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> My Stack</b>
 
 <div>
   <h3>Experience in the Development Area</h3>
