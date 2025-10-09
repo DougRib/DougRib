@@ -10,9 +10,9 @@
   <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
 </div>  
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" />
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=DougRib&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=false&v=3" />
+
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&theme=gruvbox&hide_border=false&langs_count=10&v=3" />
 </div>
 
 <div><br /></div> 
@@ -36,8 +36,8 @@
 
 <div>
   <h3>Experience with Tools</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=vscode,git,github," 
-       title="VS Code, Git, GitHub"/>
+  <img height="36rem" src="https://skillicons.dev/icons?i=vscode,git,github,docker" 
+       title="VS Code, Git, GitHub, Docker"/>
 </div>
 
 ##
