@@ -11,7 +11,6 @@
 </div>  
 <div>
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=DougRib&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=false&v=3" />
-
   <img
    height="160rem"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&theme=gruvbox&hide_border=false&langs_count=10&hide=html,css,jupyter%20notebook&v=6"
