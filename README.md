@@ -28,14 +28,14 @@
 
 <div>
   <h3>Experience in the Development Area</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=html,css,typescript,tailwindcss,react,nextjs,vite,python,nodejs,sql" 
-       title="HTML, CSS, TypeScript, Tailwindcss, React, NextJS, Vite, Python, NodeJS, SQL."/>
+  <img height="36rem" src="https://skillicons.dev/icons?i=html,css,typescript,tailwindcss,react,nextjs,vite,python,nodejs,postgresql" 
+       title="HTML, CSS, TypeScript, Tailwindcss, React, NextJS, Vite, Python, NodeJS, PostgreSQL."/>
 </div>
 
 <div>
   <h3>Experience in the Data Area</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=python," 
-       title="Python, SQL."/>
+  <img height="36rem" src="https://skillicons.dev/icons?i=python,postgresql" 
+       title="Python, PostgreSQL."/>
 </div>
 
 <div>
@@ -49,7 +49,7 @@
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasribeiro21/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas_ribeiro_21/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odev.douglas/)  
 
 
 ##
