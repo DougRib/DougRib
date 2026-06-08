@@ -1,58 +1,125 @@
- <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    Hello Dev!
-    Welcome to my Github 
-  </h1>
-  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Statistics  </b> 
-<div>  
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="160rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=gruvbox&show_icons=true&hide_border=false&count_private=true"/>
-</div>  
-<div>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=DougRib&theme=gruvbox&show_icons=true&include_all_commits=true&hide_border=false&v=3" />
-  <img
-  height="160rem"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougRib&layout=compact&theme=gruvbox&hide_border=false&langs_count=10&hide=html,css,jupyter%20notebook&v=5"
-/>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=250&section=header&text=Douglas%20Ribeiro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Python%20•%20FastAPI%20•%20React%20•%20Next.js%20•%20AI&descAlignY=60"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%7C+FastAPI+%7C+React+%7C+Next.js;Building+Modern+SaaS+Applications;Financial+Systems+and+Artificial+Intelligence" />
 
-<div><br /></div> 
+<br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=DougRib.readme)
-##
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> My Stack</b>
+<a href="https://github.com/DougRib">
+<img src="https://img.shields.io/github/followers/DougRib?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-<div>
-  <h3>Experience in the Development Area</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=html,css,typescript,tailwindcss,react,nextjs,vite,python,nodejs,postgresql" 
-       title="HTML, CSS, TypeScript, Tailwindcss, React, NextJS, Vite, Python, NodeJS, PostgreSQL."/>
+<a href="https://github.com/DougRib">
+<img src="https://img.shields.io/github/stars/DougRib?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
 </div>
 
-<div>
-  <h3>Experience in the Data Area</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=python,postgresql" 
-       title="Python, PostgreSQL."/>
+---
+
+## 🚀 Sobre Mim
+
+Sou desenvolvedor Full Stack na construção de sistemas empresariais modernos, plataformas SaaS e soluções baseadas em Inteligência Artificial.
+
+Tenho experiência no desenvolvimento de aplicações escaláveis utilizando Python, FastAPI, React, Next.js, TypeScript e PostgreSQL, aplicando boas práticas de arquitetura, performance e experiência do usuário.
+
+
+---
+
+## 💻 Stack Principal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,vite,vuejs,nodejs,tailwind,postgresql,mongodb,docker,git,github,vscode" />
+
 </div>
 
-<div>
-  <h3>Experience with Tools</h3>
-  <img height="36rem" src="https://skillicons.dev/icons?i=vscode,git,github,docker" 
-       title="VS Code, Git, GitHub, Docker"/>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=tokyonight"/>
+
 </div>
 
-##
+<div align="center">
 
-## 🌐 Redes Sociais
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DougRib&theme=tokyonight"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasribeiro21/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odev.douglas/)  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DougRib&theme=tokyonight&utcOffset=-3"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DougRib&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DougRib&theme=tokyonight"/>
+
+</div>
+
+---
 
 
-##
 
-📫 **Contato:** [douglas21pro@gmail.com](mailto:douglas21pro@gmail.com)
+## 🛠 Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,linux" />
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/douglasribeiro21/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/odev.douglas/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:douglas21pro@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📫 Contato
+
+### 📧 Email
+
+**douglas21pro@gmail.com**
+
+---
+
+<div align="center">
+
+### 💡 Transformando ideias em software escalável.
+
+</div>
 
